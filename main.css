@@ -1,3 +1,62 @@
 body {
+    background-color: rgb(216, 224, 241);
+    color: #ffffff;
     font-family: Helvetica, sans-serif;
+}
+
+b {
+    color: #576EA7;
+}
+
+
+h3 {
+    text-align: center;
+    color: #ffffff;
+    background-color: #7290DA;
+}
+
+.basic-info {
+    padding: 10px 0 10px 0;
+    text-align: center;
+    background-color: #B8C4E0;
+}
+
+.basic-info a {
+    color: #576EA7;
+}
+
+.subjects {
+    padding: 10px 0 10px 0;
+    background-color: #B8C4E0;
+}
+
+.movies {
+    padding: 10px 0 10px 0;
+    background-color: #B8C4E0;
+}
+
+.movies a {
+    color: #2F3C5A;
+    padding: 5px;
+}
+
+.moods {
+    padding: 10px 0 10px 0;
+    background-color: #B8C4E0;
+    text-align: center;
+    
+}
+.moods img {
+    border: solid;
+    border-color: #576EA7;
+    height: 300px;
+    border-left: none;
+    border-top: none;
+    border-width: 10px;
+    width: auto;
+}
+
+.facts {
+    padding: 10px 0 10px 0;
+    background-color: #B8C4E0;
 }
